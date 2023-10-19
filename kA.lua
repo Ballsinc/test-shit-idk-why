@@ -1,3 +1,7 @@
-local key1 = "cum"
-local key2 = "cum2"
-local key3 = "cum3"
+local cumz = {
+  cum,
+  cum2,
+  cum3,
+  ilovemen,
+  TEST123
+}
